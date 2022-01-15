@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Zhangyue Shi"
 title_separator          : "-"
 name                     : &name "Zhangyue Shi"
-description              : &description "personal description"
+description              : &description "PhD candidate at Industrial Engineering & Management, Oklahoma State University"
 url                      : https://shizhangyue.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "shizhangyue.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Zhangyue Shi"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate "
+  bio              : "Ph.D. Candidate at Industrial Engineering & Management, Oklahoma State University"
   location         : "Stillwater, OK, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=wM76oEUAAAAJ"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Zhangyue-Shi"
+  researchgate     : "https://www.researchgate.net/profile/Zhangyue-Shi"
   uri              :
   bitbucket        :
   codepen          :
