@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am PhD candidate at School of [Industrial Engineering & Management](https://ceat.okstate.edu/iem/) at Oklahoma State University. I hold a Bachlor in Mechanical Engineering from Xi`An Jiaotong University, China. My research focus on advanced data analytics-based quality assurance for smart manufacturing, which invovles machine learning, blockchain, and sensor fusion.
+I am PhD candidate at School of [Industrial Engineering & Management](https://ceat.okstate.edu/iem/) at Oklahoma State University. I hold a Bachlor in Mechanical Engineering from Xi`an Jiaotong University, China. My research focus on advanced data analytics-based quality assurance for smart manufacturing, which invovles machine learning, blockchain, and sensor fusion.
 
 
 
