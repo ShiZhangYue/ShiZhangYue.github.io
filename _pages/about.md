@@ -27,4 +27,4 @@ For site content, there is one markdown file for each type of content, which are
 
 
 
-email:zhshi@okstate.edu
+[email: ](zhshi@okstate.edu)
