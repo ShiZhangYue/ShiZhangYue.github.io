@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "More about me"
-permalink: /more about me/
+title: "Honors & Service"
+permalink: /awards/
 author_profile: true
 redirect_from:
-  - /more about me
+  - /awards
 ---
 
 Under construction
