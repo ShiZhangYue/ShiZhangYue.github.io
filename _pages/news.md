@@ -37,4 +37,4 @@ redirect_from:
 ------
 🐷 **Oct, 2019**  Data Challenge Award Finalist, Data Competition in QSR Section, INFORMS 2019 Annual Meeting.\
 🐷 **Aug, 2019**  Attend Oklahoma State University for Ph.D. degree in Industrial Engineering and Management, advised by Prof. [Chenang Liu](https://ceat.okstate.edu/iem/people/c-liu-faculty-profile.html).\
-🐷 **Jun, 2019**  Graduate from Xi`an Jiaotong University with Bachlor degree of Engineering in Mechanical Engineering.
+🐷 **Jun, 2019**  Graduate from Xi`an Jiaotong University with Bachlor Degree of Engineering in Mechanical Engineering.
