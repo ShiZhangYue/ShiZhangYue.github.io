@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Welcome to my homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am PhD candidate at School of [Industrial Engineering & Management](https://ceat.okstate.edu/iem/), Oklahoma State University. I hold a Bachlor in Mechanical Engineering from Xi`an Jiaotong University, China. My research focus on advanced data analytics-based quality assurance for smart manufacturing, which invovles machine learning, blockchain, and sensor fusion.
-
-
+I am Zhangyue Shi, a PhD candidate at [School of Industrial Engineering & Management](https://ceat.okstate.edu/iem/), Oklahoma State University, advised by [Prof. Chenang Liu](https://ceat.okstate.edu/iem/people/c-liu-faculty-profile.html). I hold a Bachlor in Mechanical Engineering from Xi`an Jiaotong University, China. My research focus on **advanced data analytics**-based quality assurance for smart manufacturing, which invovles the general areal of **machine learning**, blockchain, and sensor fusion.
+- **Data quality assurance**: Propose a blockchain-enabled framework to prevent malicious cyber-physical attacks occuring on important data/files.
+- **Design quality assurance**: Develop an autoencoder-based feature extraction method for smart machine parameter selection.
+- **Process quality assurance**: Incorporate autoencoder, genetative adversarial network(GAN), knowledge distillation to enhance the *in-situ* monitoring performance (e.g. anomaly detection etc.).
 
 Getting started
-======
+------
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
