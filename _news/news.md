@@ -1,3 +1,15 @@
+---
+layout: archive
+title: "News"
+permalink: /news/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+
 News
 ======
 🐯 Jan, 2022 Paper “An LSTM-autoencoder based online side channel monitoring approach for cyber-physical attack detection in additive manufacturing” has been published by Journal of Intelligent Manufacturing.
