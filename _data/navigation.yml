@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV"
-    url: "CV_ZS.pdf"
+    url: /files/CV_ZS.pdf
     
     
   - title: "Publications"
