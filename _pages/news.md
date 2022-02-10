@@ -22,7 +22,7 @@ redirect_from:
 🐂 **Oct, 2021** Talk on Department of Industrial and Manufacturing Engineering at North Dakota State University.\
 🐂 **Aug, 2021** Two talks at IDETC-CIE 2021.\
 🐂 **Jul, 2021** Pass PhD qualifying exam.\
-🐂 **Jun, 2021** Talk at NAMRC 49.\ 
+🐂 **Jun, 2021** Talk at NAMRC 49.\
 🐂 **Apr, 2021** Paper “A Blockchain-Enabled Approach for Online Stream Sensor Data Protection in Cyber-Physical Manufacturing Systems” has been accepted by IDETC-CIE 2021.\
 🐂 **Apr, 2021** Receive NSF Student Travel Awards for NAMRC 49.\
 🐂 **Jan, 2021** Paper "Surface Morphology Analysis Using Convolutional Autoencoder in Additive Manufacturing with Laser Engineered Net Shaping" has been accepted by NARMC 49.
