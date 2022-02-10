@@ -1,14 +1,17 @@
 # main links links
 main:
 
+  - title: "CV"
+    url: /files/CV_ZS.pdf
+    
   - title: "News"
     url: /news/  
        
-  - title: "Research and Publication"
+  - title: "Research & Publication"
     url: /publications/
 
-  - title: "CV"
-    url: /files/CV_ZS.pdf
+  - title: "Honors & Service"
+    url: /awards/
 
   - title: "More about me"
     url: /more about me/    
