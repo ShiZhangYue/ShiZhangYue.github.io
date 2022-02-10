@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+Bio
+------
 I am Zhangyue Shi, a PhD candidate at [School of Industrial Engineering & Management](https://ceat.okstate.edu/iem/) with minor in Statistics, Oklahoma State University, advised by [Prof. Chenang Liu](https://ceat.okstate.edu/iem/people/c-liu-faculty-profile.html). I hold a Bachlor in Mechanical Engineering from Xi`an Jiaotong University, China.
 
 Research Interests
