@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Honors & Service"
-permalink: /awards/
+title: "More about me"
+permalink: /more about me/
 author_profile: true
 redirect_from:
-  - /awards
+  - /more about me
 ---
 
 {% include base_path %}
