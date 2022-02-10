@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my homepage"
+title: "Homepage of Zhangyue Shi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,7 +11,7 @@ redirect_from:
 I am Zhangyue Shi, a PhD candidate at [School of Industrial Engineering & Management](https://ceat.okstate.edu/iem/), Oklahoma State University, advised by [Prof. Chenang Liu](https://ceat.okstate.edu/iem/people/c-liu-faculty-profile.html). I hold a Bachlor in Mechanical Engineering from Xi`an Jiaotong University, China. My research focus on **advanced data analytics**-based quality assurance for smart manufacturing, which invovles the general areal of **machine learning**, blockchain, and sensor fusion.
 - **Data quality assurance**: Propose a blockchain-enabled framework to prevent malicious cyber-physical attacks occuring on important data/files.
 - **Design quality assurance**: Develop an autoencoder-based feature extraction method for smart machine parameter selection.
-- **Process quality assurance**: Incorporate autoencoder, genetative adversarial network(GAN), knowledge distillation to enhance the *in-situ* monitoring performance (e.g. anomaly detection etc.).
+- **Process quality assurance**: Incorporate autoencoder, genetative adversarial network (GAN), knowledge distillation to enhance the *in-situ* monitoring performance.
 
 Getting started
 ------
