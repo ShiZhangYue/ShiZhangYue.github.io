@@ -20,9 +20,9 @@ My research focus on **advanced data analytics**-based quality assurance for sma
 Education
 ------
 1. **Oklahoma State University**\
-   Ph.D. major in Industrial Engineering and Management, minor in Statistics (Aug 2019 - Present)
+   **Ph.D.** major in Industrial Engineering and Management, minor in Statistics (Aug 2019 - Present)
 2. **Xi`an Jiaotong University**\
-   B.Eng. in Mechanical Engineering (Aug 2015 - Jun 2019)
+   **B.Eng.** in Mechanical Engineering (Aug 2015 - Jun 2019)
 
 News
 ------
