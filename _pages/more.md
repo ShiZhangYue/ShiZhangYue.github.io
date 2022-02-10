@@ -1,8 +1,12 @@
+---
 layout: archive
 title: "More about me"
 permalink: /more about me/
 author_profile: true
 ---
+
+{% include base_path %}
+
 Leisure time activity
 ------
 - Basketball: Play weekly and Chris Paul is my favorite player.
