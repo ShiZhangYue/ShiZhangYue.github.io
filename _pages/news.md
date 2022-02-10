@@ -11,7 +11,7 @@ redirect_from:
 
 2022
 ------
-🐯 **Jan, 2022** Nominated as outstanding graduate student of School of Industrial Engineering and Management, Oklahoma State University\
+🐯 **Jan, 2022** Nominated as outstanding graduate student of School of Industrial Engineering and Management, Oklahoma State University
 
 2021
 ------
