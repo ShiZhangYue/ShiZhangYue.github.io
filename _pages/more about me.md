@@ -12,6 +12,6 @@ redirect_from:
 Leisure time activity
 ------
 - Basketball: Play weekly and Chris Paul is my favorite player.
-- Computer games: League of Legend enjoyer.
-- Language: Learn German during undergraduate time, pass Goethe Certificate B2 exam in 2018.
+- Computer games: Play many games and especially enjoy playing League of Legend.
+- Language: Learn German during undergraduate time and pass Goethe Certificate B2 exam in 2018.
 - Ukulele: Just start to play in 2022.
