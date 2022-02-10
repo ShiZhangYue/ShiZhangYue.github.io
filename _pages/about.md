@@ -8,11 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am Zhangyue Shi, a PhD candidate at [School of Industrial Engineering & Management](https://ceat.okstate.edu/iem/) with minor in Statistics, Oklahoma State University, advised by [Prof. Chenang Liu](https://ceat.okstate.edu/iem/people/c-liu-faculty-profile.html). I hold a Bachlor in Mechanical Engineering from Xi`an Jiaotong University, China. 
+I am Zhangyue Shi, a PhD candidate at [School of Industrial Engineering & Management](https://ceat.okstate.edu/iem/) with minor in Statistics, Oklahoma State University, advised by [Prof. Chenang Liu](https://ceat.okstate.edu/iem/people/c-liu-faculty-profile.html). I hold a Bachlor in Mechanical Engineering from Xi`an Jiaotong University, China.
+
+Research Interests
+------
 My research focus on **advanced data analytics**-based quality assurance for smart manufacturing, which invovles the general areal of **machine learning**, blockchain, and sensor fusion.
-- **Data quality assurance**: Propose a blockchain-enabled framework to prevent malicious cyber-physical attacks occuring on important data/files.
-- **Design quality assurance**: Develop an autoencoder-based feature extraction method for smart machine parameter selection.
-- **Process quality assurance**: Incorporate autoencoder, genetative adversarial network (GAN), knowledge distillation to enhance the *in-situ* monitoring performance.
+- **Data quality assurance**: Propose a blockchain-enabled framework to prevent malicious cyber-physical attacks occuring on important [data](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2021/V002T02A035/1128437)/[files](https://asmedigitalcollection.asme.org/computingengineering/article/21/4/041007/1089710/A-Blockchain-Based-G-Code-Protection-Approach-for).
+- **Design quality assurance**: Develop an autoencoder-based feature extraction method for [smart machine parameter selection](https://www.sciencedirect.com/science/article/pii/S2351978921000056).
+- **Process quality assurance**: Incorporate [autoencoder](https://link.springer.com/article/10.1007/s10845-021-01879-9), [Augmented Time Regularized genetative adversarial network (ATR-GAN)](https://ieeexplore.ieee.org/abstract/document/9592834), knowledge distillation (ongoing) to enhance the *in-situ* monitoring performance.
 
 Education
 ------
