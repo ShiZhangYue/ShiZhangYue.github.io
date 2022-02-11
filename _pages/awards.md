@@ -7,5 +7,16 @@ redirect_from:
   - /awards
 ---
 
-Under construction
+Honors & Awards
 ------
+🐯 Outstanding Graduate Student, School of Industrial Engineering and Management, Oklahoma State University, 2022\
+🐂 NSF Student Support Award, North American Manufacturing Research Conference (NAMRC) 49, 2021\
+🐷 Data Challenge Award Finalist, INFORMS QSR section data competition, 2019\
+🐷 Outstanding Undergraduate Graduates, Xi`an Jiaotong University, 2019\
+🐶 Second Prize, National Collegiate Mechanical Product Digital Design Contest, Ministry of Education, China， 2018\
+🐥 First Prize, National College Students Mathematical Modeling Competition Undergraduate Group Shaanxi Division, China, 2017 
+
+Service
+------
+- **President**, Institute for Operations Research and the Management Sciences (INFORMS) Oklahoma State University Student Chapter (winner of the INFORMS 2021 Student Chapter Annual Award as an honorable mention chapter)
+- **Reviewer**, Healthcare Analytics, NAMRC 50
