@@ -1,11 +1,12 @@
 # main links links
 main:
 
-  - title: "Research & Publication"
-    url: /publications/
     
   - title: "Honors & Service"
     url: /awards/
+    
+  - title: "Research & Publication"
+    url: /publications/    
     
   - title: "News"
     url: /news/  
