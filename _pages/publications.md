@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Research
+Research Outline
 ------
 Under construction, coming soon.
 
