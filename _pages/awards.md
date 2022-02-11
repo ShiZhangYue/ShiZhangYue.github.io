@@ -7,7 +7,7 @@ redirect_from:
   - /awards
 ---
 
-Honors & Awards
+Honors
 ------
 🐯 **Outstanding Graduate Student**, School of Industrial Engineering and Management, Oklahoma State University, 2022\
 🐂 **NSF Student Support Award**, North American Manufacturing Research Conference (NAMRC) 49, 2021\
