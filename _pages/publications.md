@@ -1,9 +1,13 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research and Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+Research
+------
+Under construction, coming soon.
 
 Journal Publication
 ------
