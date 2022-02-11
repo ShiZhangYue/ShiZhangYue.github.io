@@ -24,7 +24,7 @@ redirect_from:
 🐂 **Jul, 2021**  Pass PhD qualifying exam.\
 🐂 **Jun, 2021**  Talk at NAMRC 49.\
 🐂 **Apr, 2021**  Paper “[A Blockchain-Enabled Approach for Online Stream Sensor Data Protection in Cyber-Physical Manufacturing Systems](https://doi.org/10.1115/DETC2021-72023)” has been accepted by IDETC-CIE 2021.\
-🐂 **Apr, 2021**  Receive NSF Student Travel Awards for NAMRC 49.\
+🐂 **Apr, 2021**  Receive NSF Student Support Award for NAMRC 49.\
 🐂 **Jan, 2021**  Paper "[Surface Morphology Analysis Using Convolutional Autoencoder in Additive Manufacturing with Laser Engineered Net Shaping](https://doi.org/10.1016/j.promfg.2021.06.005 )" has been accepted by NARMC 49.
 
 2020
