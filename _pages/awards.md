@@ -13,7 +13,7 @@ Honors & Awards
 🐂 **NSF Student Support Award**, North American Manufacturing Research Conference (NAMRC) 49, 2021\
 🐷 **Data Challenge Award Finalist**, INFORMS QSR section data competition, 2019\
 🐷 **Outstanding Undergraduate Graduates**, Xi`an Jiaotong University, 2019\
-🐶 **Second Prize**, National Collegiate Mechanical Product Digital Design Contest, Ministry of Education, China， 2018\
+🐶 **Second Prize**, National Collegiate Mechanical Product Digital Design Contest, Ministry of Education, China, 2018\
 🐥 **First Prize**, National College Students Mathematical Modeling Competition Undergraduate Group Shaanxi Division, China, 2017 
 
 Service
