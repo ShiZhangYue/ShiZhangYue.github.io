@@ -14,7 +14,7 @@ Honors & Awards
 🐷 **Data Challenge Award Finalist**, INFORMS QSR section data competition, 2019\
 🐷 **Outstanding Undergraduate Graduates**, Xi`an Jiaotong University, 2019\
 🐶 **Second Prize**, National Collegiate Mechanical Product Digital Design Contest, Ministry of Education, China, 2018\
-🐶 **HINWIN Fellowship**, Xi`an Jiaotong University, 2018\
+🐶 **HINWIN Fellowship**, HINWIN company, 2018\
 🐥 **First Prize**, National College Students Mathematical Modeling Competition Undergraduate Group Shaanxi Division, China, 2017 
 
 Service
