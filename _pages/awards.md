@@ -23,10 +23,10 @@ Service
   - Healthcare Analytics
   - North American Manufacturing Research Conference (NAMRC) 50
 - **Teaching Assistant**, School of Industrial Engineering and Management, Oklahoma State University
-  1. IEM 3303/MET 3543 Manufacturing Processes
-  2. IEM 3713 Software Programming for Data Analytics
-  3. IEM 4103 Quality Control and Reliability Analysis
-  4. IEM 4613 Production Planning and Control Systems
-  5. IEM 5103 Breakthrough Quality and Reliability
-  6. IEM 5613 Integrated Manufacturing Control Systems
+  - IEM 3303/MET 3543 Manufacturing Processes
+  - IEM 3713 Software Programming for Data Analytics
+  - IEM 4103 Quality Control and Reliability Analysis
+  - IEM 4613 Production Planning and Control Systems
+  - IEM 5103 Breakthrough Quality and Reliability
+  - IEM 5613 Integrated Manufacturing Control Systems
 
