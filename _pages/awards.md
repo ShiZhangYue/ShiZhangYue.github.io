@@ -19,7 +19,9 @@ Honors & Awards
 Service
 ------
 - **President**, Institute for Operations Research and the Management Sciences (INFORMS) Oklahoma State University Student Chapter (winner of the INFORMS 2021 Student Chapter Annual Award as an honorable mention chapter)
-- **Reviewer**, Healthcare Analytics, NAMRC 50
+- **Reviewer**, 
+  1. Healthcare Analytics
+  2. North American Manufacturing Research Conference (NAMRC) 50
 - **Teaching Assistant**, School of Industrial Engineering and Management, Oklahoma State University
   1. IEM 3303/MET 3543 Manufacturing Processes
   2. IEM 3713 Software Programming for Data Analytics
