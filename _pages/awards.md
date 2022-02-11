@@ -18,7 +18,8 @@ Honors & Awards
 
 Service
 ------
-- **President** INFORMS Oklahoma State University Student Chapter (winner of the INFORMS 2021 Student Chapter Annual Award as an honorable mention chapter)
+- **President** INFORMS Oklahoma State University Student Chapter 
+  - Winner of the INFORMS 2021 Student Chapter Annual Award as an honorable mention chapter)
 - **Reviewer** 
   - Healthcare Analytics
   - North American Manufacturing Research Conference (NAMRC) 50
