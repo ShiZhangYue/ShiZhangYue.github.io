@@ -14,9 +14,9 @@ Nowadays, digitalization and sensor fusion make manufacturing system more and mo
 - Utilize asymmetry encryption method to encrypt files to ciphertext; design a camouflage method to camouflage ciphertext to "data" having similar format with original one, which could reduce risk of unauthorized access on files.
 
 <div style="display:none">
-<p align="center">
-  <img src=/images/research_outline.png />
-</p>
+  <p align="center">
+    <img src=/images/research_outline.png />
+  </p>
 </div>
   
 **Design quality assurance**: Hybrid data-driven feature extraction-enabled surface modeling for process design
