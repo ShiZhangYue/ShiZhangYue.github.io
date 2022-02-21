@@ -12,11 +12,11 @@ Nowadays, digitalization and sensor fusion make manufacturing system more and mo
 **Data quality Assurance**: A blockchain-enabled approach for cyber-physical security protection in manufacturing
 -	Apply blockchain for important file (G-code)/data (stream data) storage using Python. Via mismatch of hash value in blocks, malicious modification on files could be detected timely and accurately.
 - Utilize asymmetry encryption method to encrypt files to ciphertext; design a camouflage method to camouflage ciphertext to "data" having similar format with original one, which could reduce risk of unauthorized access on files.
-
-  ;<p align="center">
-    ;<img src=/images/research_outline.png />
-  ;</p>
-
+<!--  
+  <p align="center">
+    <img src=/images/research_outline.png />
+  </p>
+-->
   
 **Design quality assurance**: Hybrid data-driven feature extraction-enabled surface modeling for process design
 - Propose a hybrid feature extraction framework which consists of machine learning-based feature and statistics feature.
