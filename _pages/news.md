@@ -15,7 +15,7 @@ redirect_from:
 
 2021
 ------
-🐮 **Nov, 2022**  Paper “[An LSTM-autoencoder based online side channel monitoring approach for cyber-physical attack detection in additive manufacturing](https://doi.org/10.1007/s10845-021-01879-9 )” has been accepted by Journal of Intelligent Manufacturing.\
+🐮 **Nov, 2021**  Paper “[An LSTM-autoencoder based online side channel monitoring approach for cyber-physical attack detection in additive manufacturing](https://doi.org/10.1007/s10845-021-01879-9 )” has been accepted by Journal of Intelligent Manufacturing.\
 🐮 **Nov, 2021**  Pass proposal defense.\
 🐮 **Oct, 2021**  Paper “[Augmented Time Regularized Generative Adversarial Network (ATR-GAN) for Data Augmentation in Online Process Anomaly Detection](https://doi.org/10.1109/TASE.2021.3118635)” has been accepted by IEEE Transactions on Automation Science and Engineering.\
 🐮 **Oct, 2021**  Two talks at INFORMS 2021 Annual Meeting.\
