@@ -11,6 +11,7 @@ redirect_from:
 
 2022
 ------
+🐯 **Jun, 2022**  Receive Summer 2022 Graduate College Robberson Research and Creative Activity Grant, Oklahoma State University
 🐯 **Apr, 2022**  Nominated as outstanding graduate student of School of Industrial Engineering and Management, Oklahoma State University
 
 2021
