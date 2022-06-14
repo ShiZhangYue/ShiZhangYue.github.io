@@ -11,8 +11,8 @@ redirect_from:
 
 2022
 ------
-🐯 **Jun, 2022**  Receive Robberson Summer Dissertation Fellowship, Graduate College, Oklahoma State University
-🐯 **Apr, 2022**  Nominated as outstanding graduate student of School of Industrial Engineering and Management, Oklahoma State University
+🐯 **Jun, 2022**  Receive Robberson Summer Dissertation Fellowship, Graduate College, Oklahoma State University.\
+🐯 **Apr, 2022**  Nominated as outstanding graduate student of School of Industrial Engineering and Management, Oklahoma State University.
 
 2021
 ------
