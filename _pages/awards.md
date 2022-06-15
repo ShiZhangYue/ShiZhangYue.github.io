@@ -9,7 +9,7 @@ redirect_from:
 
 Selected Honors
 ------
-🐯 **Robberson Summer Dissertation Fellowship**, Graduate College, Oklahoma State University, 2022\
+🐯 **•	Robberson Research and Creative Activity Grant**, Graduate College, Oklahoma State University, 2022\
 🐯 **Outstanding Graduate Student**, School of Industrial Engineering and Management, Oklahoma State University, 2022\
 🐮 **NSF Student Support Award**, North American Manufacturing Research Conference (NAMRC) 49, 2021\
 🐷 **Data Challenge Award Finalist**, INFORMS QSR section data competition, 2019\
