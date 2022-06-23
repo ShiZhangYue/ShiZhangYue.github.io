@@ -11,6 +11,7 @@ redirect_from:
 
 2022
 ------
+🐯 **Jun, 2022**  Paper "Hybrid Data-Driven Feature Extraction-Enabled Surface Modeling for Metal Additive Manufacturing" has been accepted by The International Journal of Advanced Manufacturing Technology.\
 🐯 **Jun, 2022**  Receive Robberson Research and Creative Activity Grant from Graduate College of Oklahoma State University.\
 🐯 **Apr, 2022**  Nominated as Outstanding Graduate Student of School of Industrial Engineering and Management, Oklahoma State University.
 
