@@ -11,7 +11,7 @@ redirect_from:
 
 2022
 ------
-🐯 **Nov, 2022** Give Ph.D. candidacy presentation at graduate seminar of Schoolf of Industrial Engineering & Management, Oklahoma State University.\
+🐯 **Nov, 2022** Give Ph.D. candidacy presentation at graduate seminar of School of Industrial Engineering & Management, Oklahoma State University.\
 🐯 **Oct, 2022** Two talks and two poster presentations at INFORMS 2022 Annual Meeting.\
 🐯 **Oct, 2022** Paper "Knowledge Distillation-enabled Multi-stage Incremental Learning for Online Process Monitoring in Advanced Manufacturing" has been accept by IEEE International Conference on Data Mining, (ICDM) IncrLearn Workshop.\
 🐯 **Jun, 2022**  Paper "[Hybrid Data-Driven Feature Extraction-Enabled Surface Modeling for Metal Additive Manufacturing](https://doi.org/10.1007/s00170-022-09608-z)" has been accepted by The International Journal of Advanced Manufacturing Technology.\
