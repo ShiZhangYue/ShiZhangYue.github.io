@@ -11,7 +11,7 @@ redirect_from:
 
 2023
 ------
-🐰 **Jan, 2022** Paper "Characteristics of circulating small non-coding RNAs in plasma and serum during human aging" has been accepted by Aging Medicine.\
+🐰 **Jan, 2022** Paper "Characteristics of circulating small non-coding RNAs in plasma and serum during human aging" has been accepted by Aging Medicine.
 
 2022
 ------
