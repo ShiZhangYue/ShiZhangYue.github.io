@@ -27,7 +27,7 @@ Nowadays, digitalization and sensor fusion make manufacturing system more and mo
 
 Journal Publication
 ------
-1. Xiao, P., **Shi, Z.**, Liu, C., & Hagen, D. (2023). Characteristics of Circulating Small Non-Coding RNAs in Plasma and Serum during Human Aging. Aging Medicine. (accepted)
+1. Xiao, P., **Shi, Z.**, Liu, C., & Hagen, D. (2023). Characteristics of Circulating Small Non-Coding RNAs in Plasma and Serum during Human Aging. Aging Medicine. [[link]](https://doi.org/10.1002/agm2.12241)
 2. **Shi, Z.**, Mandal, S., Harimkar, S., & Liu, C. (2022). Hybrid data-driven feature extraction-enabled surface modeling for metal additive manufacturing. The International Journal of Advanced Manufacturing Technology, 121(7), 4643-4662. [[link]](https://doi.org/10.1007/s00170-022-09608-z)
 3. **Shi, Z.**, Mamun, A. A., Kan, C., Tian, W., & Liu, C. (2022). An LSTM-autoencoder based online side channel monitoring approach for cyber-physical attack detection in additive manufacturing. Journal of Intelligent Manufacturing, 1-17. [[link]](https://doi.org/10.1007/s10845-021-01879-9)
 4. **Shi, Z.**, Kan, C., Tian, W., & Liu, C. (2021). A Blockchain-based G-code protection approach for cyber-physical security in additive manufacturing. Journal of Computing and Information Science in Engineering, 21(4). [[link]](https://doi.org/10.1115/1.4048966)
