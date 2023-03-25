@@ -11,9 +11,9 @@ redirect_from:
 
 2023
 ------
-🐰 **Mar, 2023** Paper "Transformer-enabled Generative Adversarial Imputation Network with Selective Generation (SGT-GAIN) for Missing Region Imputation" has been accepted by IISE Transactions.\
+🐰 **Mar, 2023** Paper "[Transformer-enabled Generative Adversarial Imputation Network with Selective Generation (SGT-GAIN) for Missing Region Imputation](https://doi.org/10.1080/24725854.2023.2193257)" has been accepted by IISE Transactions.\
 🐰 **Jan, 2023** Start to work as Data Scientist Co-op at Bayer.\
-🐰 **Jan, 2023** Paper "Characteristics of circulating small non-coding RNAs in plasma and serum during human aging" has been accepted by Aging Medicine.
+🐰 **Jan, 2023** Paper "[Characteristics of circulating small non-coding RNAs in plasma and serum during human aging](https://doi.org/10.1002/agm2.12241)" has been accepted by Aging Medicine.
 
 2022
 ------
