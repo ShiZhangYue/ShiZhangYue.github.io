@@ -10,7 +10,7 @@ redirect_from:
 
 Bio
 ------
-I am Zhangyue Shi, a PhD candidate at [School of Industrial Engineering & Management](https://ceat.okstate.edu/iem/) with minor in Statistics, Oklahoma State University, advised by [Prof. Chenang Liu](https://ceat.okstate.edu/iem/people/c-liu-faculty-profile.html). I obtained my Bachlor degree in Mechanical Engineering from Xi`an Jiaotong University, China.
+I am Zhangyue Shi, a data scientist at [Bayer Crop Scoemce](https://www.bayer.com/en/agriculture). I obatin my PhD degree at [School of Industrial Engineering & Management](https://ceat.okstate.edu/iem/) with minor in Statistics, Oklahoma State University, advised by [Prof. Chenang Liu](https://ceat.okstate.edu/iem/people/c-liu-faculty-profile.html). I obtained my Bachlor degree in Mechanical Engineering from Xi`an Jiaotong University, China.
 
 Research Interests
 ------
@@ -22,7 +22,7 @@ My research focus on **advanced data analytics**-based quality assurance for sma
 Education
 ------
 1. **Oklahoma State University**\
-   **Ph.D.** major in Industrial Engineering and Management, minor in Statistics (Aug 2019 - Present)
+   **Ph.D.** major in Industrial Engineering and Management, minor in Statistics (Aug 2019 - Jul 2023)
 2. **Xi`an Jiaotong University**\
    **B.Eng.** in Mechanical Engineering (Aug 2015 - Jun 2019)
 
