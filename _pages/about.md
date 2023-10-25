@@ -10,7 +10,7 @@ redirect_from:
 
 Bio
 ------
-I am Zhangyue Shi, a data scientist at [Bayer Crop Science](https://www.bayer.com/en/agriculture). I obatin my PhD degree at [School of Industrial Engineering & Management](https://ceat.okstate.edu/iem/) with minor in Statistics, Oklahoma State University, advised by [Prof. Chenang Liu](https://ceat.okstate.edu/iem/people/c-liu-faculty-profile.html). I obtained my Bachlor degree in Mechanical Engineering from Xi`an Jiaotong University, China.
+I am Zhangyue Shi, a data scientist at [Bayer Crop Science](https://www.bayer.com/en/agriculture). I obtained my PhD degree at [School of Industrial Engineering & Management](https://ceat.okstate.edu/iem/) with minor in Statistics, Oklahoma State University, advised by [Prof. Chenang Liu](https://ceat.okstate.edu/iem/people/c-liu-faculty-profile.html). I obtained my Bachlor degree in Mechanical Engineering from Xi`an Jiaotong University, China.
 
 Research Interests
 ------
