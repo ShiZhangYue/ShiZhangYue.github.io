@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhangyue Shi (石章汋)"
 title_separator          : "-"
 name                     : &name "Zhangyue Shi"
-description              : &description "PhD candidate at Industrial Engineering & Management, Oklahoma State University"
+description              : &description "PhD, Data Scientist at Bayer Crop Science"
 url                      : https://shizhangyue.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shizhangyue.github.io"
