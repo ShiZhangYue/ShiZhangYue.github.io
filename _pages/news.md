@@ -11,7 +11,7 @@ redirect_from:
 
 2023
 ------
-🐰 **Oct, 2023** Paper "Sensor Data Protection through Integration of Blockchain and Camouflaged Encryption in Cyber-physical Manufacturing Systems" has been accepted by Journal of Computing and Information Science in Engineering.\
+🐰 **Oct, 2023** Paper "[Sensor Data Protection through Integration of Blockchain and Camouflaged Encryption in Cyber-physical Manufacturing Systems](https://doi.org/10.1115/1.4063859)" has been accepted by Journal of Computing and Information Science in Engineering.\
 🐰 **Aug, 2023** Start Data Scientist Position at Bayer Crop Science.\
 🐰 **Jun, 2023** Successfully defend Ph.D. dissertation.\
 🐰 **Jun, 2023** End Data Scientist Co-op at Bayer.\
