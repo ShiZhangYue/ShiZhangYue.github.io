@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+2024
+------
+🐲 **Apr, 2024** Receive Graduate Research Excellence Award (1 person per year) from Oklahoma State University.\
+🐲 **Feb, 2024** Paper "[Knowledge distillation-based information sharing for online process monitoring in decentralized manufacturing system](https://doi.org/10.1007/s10845-024-02348-9)" has been accepted by Journal of Intelligent Manufacturing.
+
 2023
 ------
 🐰 **Oct, 2023** Paper "[Sensor Data Protection through Integration of Blockchain and Camouflaged Encryption in Cyber-physical Manufacturing Systems](https://doi.org/10.1115/1.4063859)" has been accepted by Journal of Computing and Information Science in Engineering.\
