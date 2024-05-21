@@ -26,7 +26,7 @@ Nowadays, digitalization and sensor fusion make manufacturing system more and mo
 
 Journal Publication
 ------
-1. **Shi, Z.**, Li, Y., & Liu, C. (2024). Knowledge Sharing to Enhance the Performance of Anomaly Detection in Decentralized Additive Manufacturing System. Journal of Intelligent Manufacturing, 1-16. [[link]]([https://arxiv.org/abs/2302.12004](https://doi.org/10.1007/s10845-024-02348-9))
+1. **Shi, Z.**, Li, Y., & Liu, C. (2024). Knowledge Sharing to Enhance the Performance of Anomaly Detection in Decentralized Additive Manufacturing System. Journal of Intelligent Manufacturing, 1-16. [[link]](https://doi.org/10.1007/s10845-024-02348-9)
 2. **Shi, Z.**, Oskolkov, B., Tian, W., Kan, C., & Liu, C. (2023). Sensor Data Protection through Integration of Blockchain and Camouflaged Encryption in Cyber-physical Manufacturing Systems. Journal of Computing and Information Science in Engineering. [[link]](https://doi.org/10.1115/1.4063859)
 3. Li, Y., **Shi, Z.**, & Liu, C., (2023). Transformer-enabled Generative Adversarial Imputation Network with Selective Generation (SGT-GAIN) for Missing Region Imputation. IISE Transactions. [[link]](https://doi.org/10.1080/24725854.2023.2193257)
 4. Xiao, P., **Shi, Z.**, Liu, C., & Hagen, D. (2023). Characteristics of Circulating Small Non-Coding RNAs in Plasma and Serum during Human Aging. Aging Medicine. [[link]](https://doi.org/10.1002/agm2.12241)
