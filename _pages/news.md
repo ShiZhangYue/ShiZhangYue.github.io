@@ -11,8 +11,9 @@ redirect_from:
 
 2024
 ------
+🐲 **Nov, 2024** Paper "[Pseudo Replay-based Class Continual Learning for Online New Category Anomaly Detection in Advanced Manufacturing](https://doi.org/10.1080/24725854.2024.2428642)" has been accepted by IISE Transactions.\
 🐲 **Apr, 2024** Receive Graduate Research Excellence Award (1 person per year) from Oklahoma State University.\
-🐲 **Feb, 2024** Paper "[Knowledge distillation-based information sharing for online process monitoring in decentralized manufacturing system](https://doi.org/10.1007/s10845-024-02348-9)" has been accepted by Journal of Intelligent Manufacturing.
+🐲 **Feb, 2024** Paper "[Knowledge Distillation-based Information Sharing for Online Process Monitoring in Decentralized Manufacturing System](https://doi.org/10.1007/s10845-024-02348-9)" has been accepted by Journal of Intelligent Manufacturing.
 
 2023
 ------
