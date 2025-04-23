@@ -9,7 +9,7 @@ redirect_from:
 
 Selected Honors
 ------
-🐲 **Graduate Research Excellence Award**, Oklahoma State University，2024\
+🐲 **Graduate Research Excellence Award**, Oklahoma State University, 2024\
 🐯 **Robberson Research and Creative Activity Grant**, Graduate College, Oklahoma State University, 2022\
 🐯 **Outstanding Graduate Student**, School of Industrial Engineering and Management, Oklahoma State University, 2022\
 🐮 **NSF Student Support Award**, North American Manufacturing Research Conference (NAMRC) 49, 2021\
