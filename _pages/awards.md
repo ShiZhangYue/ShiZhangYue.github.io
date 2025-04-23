@@ -24,7 +24,10 @@ Service
 - **President** INFORMS Oklahoma State University Student Chapter 
   - Winner of the INFORMS 2021 Student Chapter Annual Award as an honorable mention chapter
 - **Reviewer** 
+  - Journal of Manufacturing Systems
   - Journal of Intelligent Manufacturing
+  - Annals of Operations Research
+  - Scientific Reports
   - Journal of Biological Engineering
   - Healthcare Analytics
   - North American Manufacturing Research Conference (NAMRC) 50
