@@ -2,17 +2,22 @@
 main:
 
   - title: "Research"
-    url: /publications/  
-  
+    title_zh: "研究"
+    url: /publications/
+
   - title: "Honors & Service"
-    url: /awards/     
-    
+    title_zh: "荣誉与服务"
+    url: /awards/
+
   - title: "News"
-    url: /news/  
+    title_zh: "新闻"
+    url: /news/
 
   - title: "Resume"
-    url: /files/Resume_202404.pdf      
+    title_zh: "简历"
+    url: /files/Resume_202404.pdf
 
   - title: "More about me"
-    url: /more about me/    
+    title_zh: "更多关于我"
+    url: /more about me/
              

@@ -13,6 +13,10 @@
 
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  (function(){
+    var l = localStorage.getItem('preferred-lang') || 'en';
+    document.documentElement.className += ' lang-' + l;
+  })();
 </script>
 
 <!-- For all browsers -->
