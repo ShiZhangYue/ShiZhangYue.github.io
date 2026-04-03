@@ -23,9 +23,9 @@ My research focus on **advanced data analytics**-based quality assurance for sma
 
 Education
 ------
-1. **Oklahoma State University**\
+1. **Oklahoma State University**<br>
    **Ph.D.** major in Industrial Engineering and Management, minor in Statistics (Aug 2019 - Jul 2023)
-2. **Xi`an Jiaotong University**\
+2. **Xi`an Jiaotong University**<br>
    **B.Eng.** in Mechanical Engineering (Aug 2015 - Jun 2019)
 
 </div>
@@ -45,9 +45,9 @@ Education
 
 教育背景
 ------
-1. **俄克拉荷马州立大学**\
+1. **俄克拉荷马州立大学**<br>
    **博士** 工业工程与管理专业（统计学辅修），2019年8月 - 2023年7月
-2. **西安交通大学**\
+2. **西安交通大学**<br>
    **工学学士** 机械工程专业，2015年8月 - 2019年6月
 
 </div>
