@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <div class="lang-en-block" markdown="1">
+  
 2026
 ------
 🐴 **Apr, 2026** Paper "Knowledge Distillation-Empowered Domain Incremental Learning with Flexible Model Selection for Smart Manufacturing Applications" has been accepted by Journal of Manufacturing Systems.
