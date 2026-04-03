@@ -1,14 +1,29 @@
 /* Language toggle visibility */
+
+/* Default: hide Chinese blocks before lang class is set by JS */
 .lang-zh-block { display: none; }
 
-html.lang-zh {
-  .lang-en-block { display: none; }
-  .lang-zh-block { display: block; }
-  span.lang-zh-block { display: inline; }
-}
+/* English mode: show English, hide Chinese */
+html.lang-en .lang-zh-block { display: none; }
+html.lang-en .lang-en-block { display: block; }
+html.lang-en p.lang-en-block { display: block; }
+html.lang-en span.lang-en-block { display: inline; }
 
-html.lang-en {
-  span.lang-en-block { display: inline; }
+/* Chinese mode: show Chinese, hide English */
+html.lang-zh .lang-en-block { display: none; }
+html.lang-zh .lang-zh-block { display: block; }
+html.lang-zh p.lang-zh-block { display: block; }
+html.lang-zh span.lang-zh-block { display: inline; }
+
+/* Masthead layout: nav + lang toggle side by side */
+.masthead__inner-wrap {
+  display: flex;
+  align-items: center;
+
+  .masthead__menu {
+    flex: 1;
+    min-width: 0;
+  }
 }
 
 /* Toggle button in masthead */
@@ -17,12 +32,14 @@ html.lang-en {
   font-size: 0.75em;
   font-weight: bold;
   padding: 3px 10px;
-  border: 1px solid currentColor;
+  border: 1px solid #7a8288;
   border-radius: 3px;
   background: transparent;
-  color: inherit;
-  margin-left: 8px;
-  vertical-align: middle;
+  color: #7a8288;
+  margin-left: 0.5em;
+  flex-shrink: 0;
+  white-space: nowrap;
+  font-family: inherit;
   letter-spacing: 0.05em;
   &:hover { opacity: 0.7; }
 }
