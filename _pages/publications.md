@@ -13,15 +13,12 @@ Current Research (Industry)
 - Architected and deployed a production multi-agent research pipeline using LangGraph and Google ADK, consisting of four specialized agents: literature review, internal knowledge retrieval, cloud data querying, and automated model training.
 - Designed the end-to-end agentic workflow to autonomously connect external genomics findings with internal domain knowledge, query relevant datasets from cloud infrastructure, and conduct model training to accelerate the research cycle.
 
-**2. DNA Large Language Model for Crop Phenotype Prediction** — *Bayer Crop Science R&D, 2024–2025*
-- Fine-tuned a pre-trained DNA large language model (DNABERT) to analyze high-dimensional genome data (90K features) for corn yield prediction, leveraging transformer architectures to capture complex genetic patterns.
-- Developed an end-to-end pipeline for processing large-scale genomic datasets (300K samples), including data querying, quality control, and feature engineering.
 
-**3. Machine Learning for Large-Scale Breeding Analytics** — *Bayer Crop Science R&D, 2023–present*
-- Led ML modeling on million-scale datasets, applying GNN, CNN, and ResNet architectures to build end-to-end breeding analytics pipelines delivering actionable genetic improvement recommendations.
+**2. Machine Learning for Large-Scale Breeding Analytics** — *Bayer Crop Science R&D, 2023–present*
+- Led ML modeling on million-scale datasets, applying CNN architectures to build end-to-end breeding analytics pipelines delivering actionable genetic improvement recommendations.
 - Designed an active learning framework for high-value phenotype data acquisition in crop disease resistance; built ensemble learning models for soybean maturity prediction.
 
-**4. ML Tooling & Infrastructure** — *Bayer Crop Science R&D, 2023–2024*
+**3. ML Tooling & Infrastructure** — *Bayer Crop Science R&D, 2023–2024*
 - Developed and maintained a Python ML library standardizing data processing, feature engineering, and model training workflows across the team.
 - Designed scalable data pipelines for querying, transforming, and validating large-scale cloud-hosted datasets for downstream AI/ML applications.
 
@@ -78,15 +75,11 @@ Conference Publications
 - 使用LangGraph和Google ADK架构并部署了生产级多智能体研究流水线，包含四个专业智能体：文献综述、内部知识检索、云端数据查询及自动化模型训练。
 - 设计端到端智能体工作流，自主连接外部基因组学发现与内部领域知识，查询云端相关数据集并进行模型训练，加速研究周期。
 
-**2. 用于作物表型预测的DNA大语言模型** — *拜耳农作物科学研发，2024–2025年*
-- 对预训练DNA大语言模型（DNABERT）进行微调，分析高维基因组数据（9万特征）以预测玉米产量，利用Transformer架构捕捉复杂遗传模式。
-- 开发处理大规模基因组数据集（30万样本）的端到端流水线，包括数据查询、质量控制和特征工程。
-
-**3. 面向大规模育种分析的机器学习** — *拜耳农作物科学研发，2023年至今*
+**2. 面向大规模育种分析的机器学习** — *拜耳农作物科学研发，2023年至今*
 - 主导百万级数据集上的ML建模，应用GNN、CNN和ResNet架构构建端到端育种分析流水线，提供可操作的遗传改良建议。
 - 设计主动学习框架用于作物抗病性高价值表型数据采集；构建集成学习模型用于大豆成熟期预测。
 
-**4. ML工具链与基础设施** — *拜耳农作物科学研发，2023–2024年*
+**3. ML工具链与基础设施** — *拜耳农作物科学研发，2023–2024年*
 - 开发并维护Python ML库，标准化团队数据处理、特征工程和模型训练工作流。
 - 设计可扩展数据流水线，用于查询、转换和验证大规模云端数据集，支持下游AI/ML应用。
 
