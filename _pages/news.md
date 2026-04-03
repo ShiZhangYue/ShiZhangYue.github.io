@@ -71,6 +71,11 @@ redirect_from:
 
 <div class="lang-zh-block" markdown="1">
 
+2026年
+------
+🐴 **2026年4月** 论文"Knowledge Distillation-Empowered Domain Incremental Learning with Flexible Model Selection for Smart Manufacturing Applications"被Journal of Manufacturing Systems录用。<br>
+🐴 **2026年3月** 论文"Development of KASP markers and genomic prediction for winter hardiness in African bermudagrass"被Grass Research录用。
+
 2024年
 ------
 🐲 **2024年11月** 论文"[Pseudo Replay-based Class Continual Learning for Online New Category Anomaly Detection in Advanced Manufacturing](https://doi.org/10.1080/24725854.2024.2428642)"被IISE Transactions录用。<br>
