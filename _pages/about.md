@@ -12,14 +12,14 @@ redirect_from:
 
 Bio
 ------
-I am Zhangyue Shi, a data scientist at [Bayer Crop Science](https://www.bayer.com/en/agriculture). I obtained my PhD degree at [School of Industrial Engineering & Management](https://ceat.okstate.edu/iem/) with minor in Statistics, Oklahoma State University, advised by [Prof. Chenang Liu](https://ceat.okstate.edu/iem/people/c-liu-faculty-profile.html). I obtained my Bachlor degree in Mechanical Engineering from Xi`an Jiaotong University, China.
+I am Zhangyue Shi, a data scientist at [Bayer R&D Services LLC](https://www.bayer.com/en/agriculture) (Bayer Crop Science), where I lead AI/ML research projects applying deep learning, large language models, and agentic AI to accelerate crop breeding decisions at production scale. I architected and deployed a multi-agent AI research pipeline using LangGraph and Google ADK, and fine-tuned DNA language models (DNABERT) for large-scale genomic prediction. I obtained my PhD at the [School of Industrial Engineering & Management](https://ceat.okstate.edu/iem/) with a minor in Statistics, Oklahoma State University, advised by [Prof. Chenang Liu](https://ceat.okstate.edu/iem/people/c-liu-faculty-profile.html), where my research focused on data analytics-based quality assurance for smart manufacturing. I obtained my Bachelor's degree in Mechanical Engineering from Xi`an Jiaotong University, China.
 
 Research Interests
 ------
-My research focus on **advanced data analytics**-based quality assurance for smart manufacturing from different perspectives, which invovles the general areal of **machine learning**, blockchain, and sensor fusion.
-- **Data quality assurance**: Propose a blockchain-enabled framework to prevent malicious cyber-physical attacks occuring on important [data (stream data)](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2021/V002T02A035/1128437) and [files (G-code)](https://asmedigitalcollection.asme.org/computingengineering/article/21/4/041007/1089710/A-Blockchain-Based-G-Code-Protection-Approach-for).
-- **Design quality assurance**: Develop an autoencoder-based feature extraction method for [smart machine parameter selection](https://www.sciencedirect.com/science/article/pii/S2351978921000056).
-- **Process quality assurance**: Incorporate [LSTM-autoencoder](https://link.springer.com/article/10.1007/s10845-021-01879-9), augmented time regularized genetative adversarial network ([ATR-GAN](https://ieeexplore.ieee.org/abstract/document/9592834)), knowledge distillation (ongoing) to enhance the *in-situ* monitoring performance.
+- **Enterprise AI and agentic AI system design** for business and scientific applications
+- **AI-driven decision support** across industry domains (precision agriculture, manufacturing, healthcare)
+- **Anomaly detection, process monitoring, and incremental learning** for smart manufacturing
+- **Large language models and generative AI** for genomic prediction and data augmentation
 
 Education
 ------
@@ -34,14 +34,14 @@ Education
 
 个人简介
 ------
-我是石章汋，[拜耳农作物科学](https://www.bayer.com/en/agriculture)的数据科学家。我在俄克拉荷马州立大学[工业工程与管理学院](https://ceat.okstate.edu/iem/)取得博士学位（统计学辅修），导师为[刘晨昂教授](https://ceat.okstate.edu/iem/people/c-liu-faculty-profile.html)。本科毕业于中国西安交通大学机械工程专业。
+我是石章汋，[拜耳研发服务有限公司](https://www.bayer.com/en/agriculture)（拜耳农作物科学）的数据科学家，主导AI/ML研究项目，将深度学习、大语言模型及智能体AI应用于大规模作物育种决策。我设计并部署了基于LangGraph和Google ADK的多智能体AI研究流水线，并对DNA大语言模型（DNABERT）进行了微调以支持大规模基因组预测。我在俄克拉荷马州立大学[工业工程与管理学院](https://ceat.okstate.edu/iem/)取得博士学位（统计学辅修），导师为[刘晨昂教授](https://ceat.okstate.edu/iem/people/c-liu-faculty-profile.html)，博士期间研究聚焦于面向智能制造的数据分析质量保证。本科毕业于中国西安交通大学机械工程专业。
 
 研究方向
 ------
-我的研究聚焦于面向智能制造的**高级数据分析**质量保证，涵盖**机器学习**、区块链及传感器融合等领域。
-- **数据质量保障**：提出区块链框架，防范对重要[流式数据](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2021/V002T02A035/1128437)及[G-code文件](https://asmedigitalcollection.asme.org/computingengineering/article/21/4/041007/1089710/A-Blockchain-Based-G-Code-Protection-Approach-for)的恶意网络物理攻击。
-- **设计质量保障**：开发基于自动编码器的特征提取方法，用于[智能机器参数选择](https://www.sciencedirect.com/science/article/pii/S2351978921000056)。
-- **过程质量保障**：融合[LSTM自动编码器](https://link.springer.com/article/10.1007/s10845-021-01879-9)、增强时序正则化生成对抗网络（[ATR-GAN](https://ieeexplore.ieee.org/abstract/document/9592834)）及知识蒸馏技术，提升原位监测性能。
+- **企业AI与智能体AI系统设计**：面向商业与科学应用的智能体系统架构
+- **AI驱动的决策支持**：跨行业领域应用（精准农业、制造业、医疗健康）
+- **异常检测、过程监控与增量学习**：面向智能制造的在线学习方法
+- **大语言模型与生成式AI**：用于基因组预测与数据增强
 
 教育背景
 ------
