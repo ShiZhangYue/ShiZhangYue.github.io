@@ -11,7 +11,6 @@ redirect_from:
 
 Selected Honors
 ------
-🐍 **Top Performance Award** (top 5% recipients), Bayer R&D Services LLC, 2024, 2025<br>
 🐲 **Graduate Research Excellence Award**, Oklahoma State University, 2024<br>
 🐯 **Robberson Research and Creative Activity Grant**, Graduate College, Oklahoma State University, 2022<br>
 🐯 **Outstanding Graduate Student**, School of Industrial Engineering and Management, Oklahoma State University, 2022<br>
@@ -58,7 +57,6 @@ Service
 
 荣誉奖励
 ------
-🐍 **卓越绩效奖**（年度前5%），拜耳研发服务有限公司，2024、2025年<br>
 🐲 **研究生卓越研究奖**，俄克拉荷马州立大学，2024年<br>
 🐯 **Robberson研究与创新活动经费**，俄克拉荷马州立大学研究生院，2022年<br>
 🐯 **优秀研究生**，俄克拉荷马州立大学工业工程与管理学院，2022年<br>
