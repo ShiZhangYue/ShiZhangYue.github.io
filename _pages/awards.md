@@ -18,9 +18,9 @@ Selected Honors
 🐮 **NSF Student Support Award**, North American Manufacturing Research Conference (NAMRC) 49, 2021<br>
 🐮 **Awardee**, ASME-CIE Graduate Research Poster Session, IDETC-CIE 2021<br>
 🐷 **Data Challenge Award Finalist**, INFORMS QSR section data competition, 2019<br>
-🐷 **Outstanding Undergraduate Graduates**, Xi`an Jiaotong University, 2019<br>
+🐷 **Outstanding Undergraduate Graduates**, XiAn Jiaotong University, 2019<br>
 🐶 **Second Prize**, National Collegiate Mechanical Product Digital Design Contest, Ministry of Education, China, 2018<br>
-🐶 **Outstanding Undergraduate Students**, Xi`an Jiaotong University, 2018<br>
+🐶 **Outstanding Undergraduate Students**, XiAn Jiaotong University, 2018<br>
 🐶 **HIWIN Fellowship**, HIWIN company, 2018<br>
 🐥 **First Prize**, National College Students Mathematical Modeling Competition Undergraduate Group Shaanxi Division, China, 2017<br>
 🐥 **Fast Gear Scholarship**, Xi`an Jiaotong University, 2016, 2017
