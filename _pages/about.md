@@ -12,7 +12,7 @@ redirect_from:
 
 Bio
 ------
-I am Zhangyue Shi, a data scientist at [Bayer R&D Services LLC](https://www.bayer.com/en/agriculture) (Bayer Crop Science), where I lead AI/ML research projects applying deep learning, large language models, and agentic AI to accelerate crop breeding decisions at production scale. I architected and deployed a multi-agent AI research pipeline using LangGraph and Google ADK, and fine-tuned DNA language models (DNABERT) for large-scale genomic prediction. I obtained my PhD at the [School of Industrial Engineering & Management](https://ceat.okstate.edu/iem/) with a minor in Statistics, Oklahoma State University, advised by [Prof. Chenang Liu](https://ceat.okstate.edu/iem/people/c-liu-faculty-profile.html), where my research focused on data analytics-based quality assurance for smart manufacturing. I obtained my Bachelor's degree in Mechanical Engineering from Xi`an Jiaotong University, China.
+I am Zhangyue Shi, a data scientist at [Bayer R&D Services LLC](https://www.bayer.com/en/agriculture) (Bayer Crop Science), where I lead AI/ML research projects applying deep learning, large language models, and agentic AI to accelerate crop breeding decisions at production scale. I architected and deployed a multi-agent AI research pipeline, built up Deep Learning models for large-scale genomic prediction. I obtained my PhD at the [School of Industrial Engineering & Management](https://ceat.okstate.edu/iem/) with a minor in Statistics, Oklahoma State University, advised by [Prof. Chenang Liu](https://ceat.okstate.edu/iem/people/c-liu-faculty-profile.html), where my research focused on data analytics-based quality assurance for smart manufacturing. I obtained my Bachelor's degree in Mechanical Engineering from Xi`an Jiaotong University, China.
 
 Research Interests
 ------
@@ -34,7 +34,7 @@ Education
 
 个人简介
 ------
-我是石章汋，[拜耳研发服务有限公司](https://www.bayer.com/en/agriculture)（拜耳农作物科学）的数据科学家，主导AI/ML研究项目，将深度学习、大语言模型及智能体AI应用于大规模作物育种决策。我设计并部署了基于LangGraph和Google ADK的多智能体AI研究流水线，并对DNA大语言模型（DNABERT）进行了微调以支持大规模基因组预测。我在俄克拉荷马州立大学[工业工程与管理学院](https://ceat.okstate.edu/iem/)取得博士学位（统计学辅修），导师为[刘晨昂教授](https://ceat.okstate.edu/iem/people/c-liu-faculty-profile.html)，博士期间研究聚焦于面向智能制造的数据分析质量保证。本科毕业于中国西安交通大学机械工程专业。
+我是石章汋，[拜耳研发服务有限公司](https://www.bayer.com/en/agriculture)（拜耳农作物科学）的数据科学家，主导AI/ML研究项目，将深度学习、大语言模型及智能体AI应用于大规模作物育种决策。我设计并部署了基于LangGraph和Google ADK的多智能体AI研究流水线，并对DNA大语言模型（DNABERT）进行了微调以支持大规模基因组预测。我在俄克拉荷马州立大学[工业工程与管理学院](https://ceat.okstate.edu/iem/)取得博士学位（统计学辅修），导师为[Prof. Chenang Liu](https://ceat.okstate.edu/iem/people/c-liu-faculty-profile.html)，博士期间研究聚焦于面向智能制造的数据分析质量保证。本科毕业于中国西安交通大学机械工程专业。
 
 研究方向
 ------
