@@ -34,7 +34,7 @@ Education
 
 个人简介
 ------
-我是石章汋，[拜耳研发服务有限公司](https://www.bayer.com/en/agriculture)（拜耳农作物科学）的数据科学家，主导AI/ML研究项目，将深度学习、大语言模型及智能体AI应用于大规模作物育种决策。我设计并部署了基于LangGraph和Google ADK的多智能体AI研究流水线，并对DNA大语言模型（DNABERT）进行了微调以支持大规模基因组预测。我在俄克拉荷马州立大学[工业工程与管理学院](https://ceat.okstate.edu/iem/)取得博士学位（统计学辅修），导师为[Prof. Chenang Liu](https://ceat.okstate.edu/iem/people/c-liu-faculty-profile.html)，博士期间研究聚焦于面向智能制造的数据分析质量保证。本科毕业于中国西安交通大学机械工程专业。
+我是石章汋，[拜耳研发服务有限公司](https://www.bayer.com/en/agriculture)（拜耳农作物科学）的数据科学家，主导AI/ML研究项目，将深度学习、大语言模型及智能体AI应用于大规模作物育种决策。我设计并部署了基于LangGraph和Google ADK的多智能体AI研究流水线，并训练Deep Learning模型支持大规模基因组预测。我在俄克拉荷马州立大学[工业工程与管理学院](https://ceat.okstate.edu/iem/)取得博士学位（统计学辅修），导师为[Prof. Chenang Liu](https://ceat.okstate.edu/iem/people/c-liu-faculty-profile.html)，博士期间研究聚焦于面向智能制造的数据分析质量保证。本科毕业于中国西安交通大学机械工程专业。
 
 研究方向
 ------
