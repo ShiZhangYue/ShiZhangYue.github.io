@@ -41,23 +41,25 @@ The objective of my PhD research was to propose an effective methodological fram
 
 Journal Publications – Published
 ------
-1. **Shi, Z.**, Li, Y., & Liu, C\*. (2025). Knowledge Distillation-based Information Sharing for Online Process Monitoring in Decentralized Manufacturing System, *Journal of Intelligent Manufacturing*, 36(3). [[link]](https://doi.org/10.1007/s10845-024-02348-9)
-2. Li, Y., Xie, T., Liu, C., & **Shi, Z.**\*. (2024). Pseudo Replay-based Class Continual Learning for Online New Category Anomaly Detection in Additive Manufacturing, *IISE Transactions*. [[link]](https://doi.org/10.1080/24725854.2024.2428642)
-3. **Shi, Z.**, Oskolkov, B., Tian, W., Kan, C., & Liu, C\*. (2024). Sensor Data Protection through Integration of Blockchain and Camouflaged Encryption in Cyber-physical Manufacturing Systems. *Journal of Computing and Information Science in Engineering*, 24(7). [[link]](https://doi.org/10.1115/1.4063859)
-4. Li, Y., **Shi, Z.**, & Liu, C\*. (2023). Transformer-enabled Generative Adversarial Imputation Network with Selective Generation (SGT-GAIN) for Missing Region Imputation. *IISE Transactions*, 56(9), 975–987. [[link]](https://doi.org/10.1080/24725854.2023.2193257)
-5. Xiao, P., **Shi, Z.**, Liu, C., & Hagen, D\*. (2023). Characteristics of Circulating Small Non-Coding RNAs in Plasma and Serum during Human Aging. *Aging Medicine*, 6, 35–48. [[link]](https://doi.org/10.1002/agm2.12241)
-6. **Shi, Z.**, Mandal, S., Harimkar, S., & Liu, C\*. (2022). Hybrid data-driven feature extraction-enabled surface modeling for metal additive manufacturing. *The International Journal of Advanced Manufacturing Technology*, 121(7), 4643–4662. [[link]](https://doi.org/10.1007/s00170-022-09608-z)
-7. **Shi, Z.**, Mamun, A. A., Kan, C., Tian, W., & Liu, C\*. (2023). An LSTM-autoencoder based online side channel monitoring approach for cyber-physical attack detection in additive manufacturing. *Journal of Intelligent Manufacturing*, 34, 1815–1831. [[link]](https://doi.org/10.1007/s10845-021-01879-9)
-8. **Shi, Z.**, Kan, C., Tian, W., & Liu, C\*. (2021). A Blockchain-based G-code protection approach for cyber-physical security in additive manufacturing. *Journal of Computing and Information Science in Engineering*, 21(4). [[link]](https://doi.org/10.1115/1.4048966)
-9. Li, Y., **Shi, Z.**, Liu, C.\*, Tian, W., Kong, Z., & Williams, C. B. (2021). Augmented Time Regularized Generative Adversarial Network (ATR-GAN) for Data Augmentation in Online Process Anomaly Detection. *IEEE Transactions on Automation Science and Engineering*, 19(4), 3338–3355 (Finalist of the Data Challenge Award, QSR Section, INFORMS, 2019). [[link]](https://doi.org/10.1109/TASE.2021.3118635)
-10. Yu, S., **Shi, Z.**, Aoun, M., Wu, Y., Fang, T., Fontanier, C., & Xiang, M\*. (2025). Development of KASP markers and genomic prediction for winter hardiness in African Bermudagrass. *Grass Research* (accepted).
 
+1. Oskolkov, B., **Shi, Z.**, Tian, W., & Liu, C\*. (2026). Knowledge distillation-empowered domain incremental learning with flexible model selection for smart manufacturing applications. *Journal of Manufacturing Systems*. [[link]](https://doi.org/10.1016/j.jmsy.2026.04.011)
+2. Yu, S., **Shi, Z.**, Aoun, M., Wu, Y., Fang, T., Fontanier, C., & Xiang, M\*. (2025). Development of KASP markers and genomic prediction for winter hardiness in African Bermudagrass. *Grass Research*. [[link]](https://www.maxapress.com/article/id/69fa8d46fa6c58074c0bb3f3)
+3. **Shi, Z.**, Li, Y., & Liu, C\*. (2025). Knowledge Distillation-based Information Sharing for Online Process Monitoring in Decentralized Manufacturing System, *Journal of Intelligent Manufacturing*, 36(3). [[link]](https://doi.org/10.1007/s10845-024-02348-9)
+4. Li, Y., Xie, T., Liu, C., & **Shi, Z.**\*. (2024). Pseudo Replay-based Class Continual Learning for Online New Category Anomaly Detection in Additive Manufacturing, *IISE Transactions*. [[link]](https://doi.org/10.1080/24725854.2024.2428642)
+5. **Shi, Z.**, Oskolkov, B., Tian, W., Kan, C., & Liu, C\*. (2024). Sensor Data Protection through Integration of Blockchain and Camouflaged Encryption in Cyber-physical Manufacturing Systems. *Journal of Computing and Information Science in Engineering*, 24(7). [[link]](https://doi.org/10.1115/1.4063859)
+6. Li, Y., **Shi, Z.**, & Liu, C\*. (2023). Transformer-enabled Generative Adversarial Imputation Network with Selective Generation (SGT-GAIN) for Missing Region Imputation. *IISE Transactions*, 56(9), 975–987. [[link]](https://doi.org/10.1080/24725854.2023.2193257)
+7. Xiao, P., **Shi, Z.**, Liu, C., & Hagen, D\*. (2023). Characteristics of Circulating Small Non-Coding RNAs in Plasma and Serum during Human Aging. *Aging Medicine*, 6, 35–48. [[link]](https://doi.org/10.1002/agm2.12241)
+8. **Shi, Z.**, Mandal, S., Harimkar, S., & Liu, C\*. (2022). Hybrid data-driven feature extraction-enabled surface modeling for metal additive manufacturing. *The International Journal of Advanced Manufacturing Technology*, 121(7), 4643–4662. [[link]](https://doi.org/10.1007/s00170-022-09608-z)
+9. **Shi, Z.**, Mamun, A. A., Kan, C., Tian, W., & Liu, C\*. (2023). An LSTM-autoencoder based online side channel monitoring approach for cyber-physical attack detection in additive manufacturing. *Journal of Intelligent Manufacturing*, 34, 1815–1831. [[link]](https://doi.org/10.1007/s10845-021-01879-9)
+10. **Shi, Z.**, Kan, C., Tian, W., & Liu, C\*. (2021). A Blockchain-based G-code protection approach for cyber-physical security in additive manufacturing. *Journal of Computing and Information Science in Engineering*, 21(4). [[link]](https://doi.org/10.1115/1.4048966)
+11. Li, Y., **Shi, Z.**, Liu, C.\*, Tian, W., Kong, Z., & Williams, C. B. (2021). Augmented Time Regularized Generative Adversarial Network (ATR-GAN) for Data Augmentation in Online Process Anomaly Detection. *IEEE Transactions on Automation Science and Engineering*, 19(4), 3338–3355 (Finalist of the Data Challenge Award, QSR Section, INFORMS, 2019). [[link]](https://doi.org/10.1109/TASE.2021.3118635)
+
+   
 Journal Publications – Submitted and In Preparation
 ------
 1. Wang, Z., Li, Y., & **Shi, Z.**\*. (2026). Mutual knowledge sharing for enhancement of bearing anomaly detection in manufacturing process. *IISE Transactions* (under 1st round review).
 2. **Shi, Z.**, Wang, Z., & Li, Y\*. (2026). Unsupervised Identification and Replay-based Detection (UIRD) for New Category Anomaly Detection in ECG Signal. *Computers in Biology and Medicine* (under 1st round review).
-3. Oskolkov, B., **Shi, Z.**, Tian, W., & Liu, C\*. (2026). Knowledge distillation-empowered domain incremental learning with flexible model selection for smart manufacturing applications. *Journal of Manufacturing Systems* (under 2nd round review).
-4. Xiao, P\*., **Shi, Z.**, Ma, S., Ran, J., Guo, A., & Chen, F. (2026). A dataset of comprehensive small non-coding RNA associated with reproductive behavior in poultry. To be submitted to *Journal of Integrative Agriculture*.
+3. Xiao, P\*., **Shi, Z.**, Ma, S., Ran, J., Guo, A., & Chen, F. (2026). A dataset of comprehensive small non-coding RNA associated with reproductive behavior in poultry. To be submitted to *Journal of Integrative Agriculture*.
 
 Conference Publications
 ------
@@ -102,23 +104,24 @@ Conference Publications
 
 期刊论文 – 已发表
 ------
-1. **Shi, Z.**、Li, Y. 与 Liu, C\*. (2025). Knowledge Distillation-based Information Sharing for Online Process Monitoring in Decentralized Manufacturing System. *Journal of Intelligent Manufacturing*, 36(3). [[链接]](https://doi.org/10.1007/s10845-024-02348-9)
-2. Li, Y.、Xie, T.、Liu, C. 与 **Shi, Z.**\*. (2024). Pseudo Replay-based Class Continual Learning for Online New Category Anomaly Detection in Additive Manufacturing. *IISE Transactions*. [[链接]](https://doi.org/10.1080/24725854.2024.2428642)
-3. **Shi, Z.**、Oskolkov, B.、Tian, W.、Kan, C. 与 Liu, C\*. (2024). Sensor Data Protection through Integration of Blockchain and Camouflaged Encryption in Cyber-physical Manufacturing Systems. *Journal of Computing and Information Science in Engineering*, 24(7). [[链接]](https://doi.org/10.1115/1.4063859)
-4. Li, Y.、**Shi, Z.** 与 Liu, C\*. (2023). Transformer-enabled Generative Adversarial Imputation Network with Selective Generation (SGT-GAIN) for Missing Region Imputation. *IISE Transactions*, 56(9), 975–987. [[链接]](https://doi.org/10.1080/24725854.2023.2193257)
-5. Xiao, P.、**Shi, Z.**、Liu, C. 与 Hagen, D\*. (2023). Characteristics of Circulating Small Non-Coding RNAs in Plasma and Serum during Human Aging. *Aging Medicine*, 6, 35–48. [[链接]](https://doi.org/10.1002/agm2.12241)
-6. **Shi, Z.**、Mandal, S.、Harimkar, S. 与 Liu, C\*. (2022). Hybrid data-driven feature extraction-enabled surface modeling for metal additive manufacturing. *The International Journal of Advanced Manufacturing Technology*, 121(7), 4643–4662. [[链接]](https://doi.org/10.1007/s00170-022-09608-z)
-7. **Shi, Z.**、Mamun, A. A.、Kan, C.、Tian, W. 与 Liu, C\*. (2023). An LSTM-autoencoder based online side channel monitoring approach for cyber-physical attack detection in additive manufacturing. *Journal of Intelligent Manufacturing*, 34, 1815–1831. [[链接]](https://doi.org/10.1007/s10845-021-01879-9)
-8. **Shi, Z.**、Kan, C.、Tian, W. 与 Liu, C\*. (2021). A Blockchain-based G-code protection approach for cyber-physical security in additive manufacturing. *Journal of Computing and Information Science in Engineering*, 21(4). [[链接]](https://doi.org/10.1115/1.4048966)
-9. Li, Y.、**Shi, Z.**、Liu, C.\*、Tian, W.、Kong, Z. 与 Williams, C. B. (2021). Augmented Time Regularized Generative Adversarial Network (ATR-GAN) for Data Augmentation in Online Process Anomaly Detection. *IEEE Transactions on Automation Science and Engineering*, 19(4), 3338–3355（本工作入围INFORMS 2019年会QSR分部数据挑战奖决赛）. [[链接]](https://doi.org/10.1109/TASE.2021.3118635)
-10. Yu, S.、**Shi, Z.**、Aoun, M.、Wu, Y.、Fang, T.、Fontanier, C. 与 Xiang, M\*. (2025). Development of KASP markers and genomic prediction for winter hardiness in African Bermudagrass. *Grass Research*（已接收）.
+1. Oskolkov, B.、**Shi, Z.**、Tian, W. 与 Liu, C\*. (2026). Knowledge distillation-empowered domain incremental learning with flexible model selection for smart manufacturing applications. *Journal of Manufacturing Systems*.[[链接]](https://doi.org/10.1016/j.jmsy.2026.04.011)
+2. Yu, S.、**Shi, Z.**、Aoun, M.、Wu, Y.、Fang, T.、Fontanier, C. 与 Xiang, M\*. (2025). Development of KASP markers and genomic prediction for winter hardiness in African Bermudagrass. *Grass Research*.[[链接]](https://www.maxapress.com/article/id/69fa8d46fa6c58074c0bb3f3)
+3. **Shi, Z.**、Li, Y. 与 Liu, C\*. (2025). Knowledge Distillation-based Information Sharing for Online Process Monitoring in Decentralized Manufacturing System. *Journal of Intelligent Manufacturing*, 36(3). [[链接]](https://doi.org/10.1007/s10845-024-02348-9)
+4. Li, Y.、Xie, T.、Liu, C. 与 **Shi, Z.**\*. (2024). Pseudo Replay-based Class Continual Learning for Online New Category Anomaly Detection in Additive Manufacturing. *IISE Transactions*. [[链接]](https://doi.org/10.1080/24725854.2024.2428642)
+5. **Shi, Z.**、Oskolkov, B.、Tian, W.、Kan, C. 与 Liu, C\*. (2024). Sensor Data Protection through Integration of Blockchain and Camouflaged Encryption in Cyber-physical Manufacturing Systems. *Journal of Computing and Information Science in Engineering*, 24(7). [[链接]](https://doi.org/10.1115/1.4063859)
+6. Li, Y.、**Shi, Z.** 与 Liu, C\*. (2023). Transformer-enabled Generative Adversarial Imputation Network with Selective Generation (SGT-GAIN) for Missing Region Imputation. *IISE Transactions*, 56(9), 975–987. [[链接]](https://doi.org/10.1080/24725854.2023.2193257)
+7. Xiao, P.、**Shi, Z.**、Liu, C. 与 Hagen, D\*. (2023). Characteristics of Circulating Small Non-Coding RNAs in Plasma and Serum during Human Aging. *Aging Medicine*, 6, 35–48. [[链接]](https://doi.org/10.1002/agm2.12241)
+8. **Shi, Z.**、Mandal, S.、Harimkar, S. 与 Liu, C\*. (2022). Hybrid data-driven feature extraction-enabled surface modeling for metal additive manufacturing. *The International Journal of Advanced Manufacturing Technology*, 121(7), 4643–4662. [[链接]](https://doi.org/10.1007/s00170-022-09608-z)
+9. **Shi, Z.**、Mamun, A. A.、Kan, C.、Tian, W. 与 Liu, C\*. (2023). An LSTM-autoencoder based online side channel monitoring approach for cyber-physical attack detection in additive manufacturing. *Journal of Intelligent Manufacturing*, 34, 1815–1831. [[链接]](https://doi.org/10.1007/s10845-021-01879-9)
+10. **Shi, Z.**、Kan, C.、Tian, W. 与 Liu, C\*. (2021). A Blockchain-based G-code protection approach for cyber-physical security in additive manufacturing. *Journal of Computing and Information Science in Engineering*, 21(4). [[链接]](https://doi.org/10.1115/1.4048966)
+11. Li, Y.、**Shi, Z.**、Liu, C.\*、Tian, W.、Kong, Z. 与 Williams, C. B. (2021). Augmented Time Regularized Generative Adversarial Network (ATR-GAN) for Data Augmentation in Online Process Anomaly Detection. *IEEE Transactions on Automation Science and Engineering*, 19(4), 3338–3355（本工作入围INFORMS 2019年会QSR分部数据挑战奖决赛）. [[链接]](https://doi.org/10.1109/TASE.2021.3118635)
+
 
 期刊论文 – 在审与在准备中
 ------
 1. Wang, Z.、Li, Y. 与 **Shi, Z.**\*. (2026). Mutual knowledge sharing for enhancement of bearing anomaly detection in manufacturing process. *IISE Transactions*（第一轮审稿中）.
 2. **Shi, Z.**、Wang, Z. 与 Li, Y\*. (2026). Unsupervised Identification and Replay-based Detection (UIRD) for New Category Anomaly Detection in ECG Signal. *Computers in Biology and Medicine*（第一轮审稿中）.
-3. Oskolkov, B.、**Shi, Z.**、Tian, W. 与 Liu, C\*. (2026). Knowledge distillation-empowered domain incremental learning with flexible model selection for smart manufacturing applications. *Journal of Manufacturing Systems*（第二轮审稿中）.
-4. Xiao, P\*.、**Shi, Z.**、Ma, S.、Ran, J.、Guo, A. 与 Chen, F. (2026). A dataset of comprehensive small non-coding RNA associated with reproductive behavior in poultry. 待投稿至 *Journal of Integrative Agriculture*.
+3. Xiao, P\*.、**Shi, Z.**、Ma, S.、Ran, J.、Guo, A. 与 Chen, F. (2026). A dataset of comprehensive small non-coding RNA associated with reproductive behavior in poultry. 待投稿至 *Journal of Integrative Agriculture*.
 
 会议论文
 ------
