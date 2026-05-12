@@ -73,8 +73,8 @@ redirect_from:
 
 2026年
 ------
-🐴 **2026年4月** 论文"Knowledge Distillation-Empowered Domain Incremental Learning with Flexible Model Selection for Smart Manufacturing Applications"被Journal of Manufacturing Systems录用。<br>
-🐴 **2026年3月** 论文"Development of KASP markers and genomic prediction for winter hardiness in African bermudagrass"被Grass Research录用。
+🐴 **2026年4月** 论文"[Knowledge Distillation-Empowered Domain Incremental Learning with Flexible Model Selection for Smart Manufacturing Applications](https://doi.org/10.1016/j.jmsy.2026.04.011)"被Journal of Manufacturing Systems录用。<br>
+🐴 **2026年3月** 论文"[Development of KASP markers and genomic prediction for winter hardiness in African bermudagrass](https://www.maxapress.com/article/id/69fa8d46fa6c58074c0bb3f3)"被Grass Research录用。
 
 2024年
 ------
