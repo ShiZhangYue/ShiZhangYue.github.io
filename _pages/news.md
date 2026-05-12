@@ -13,8 +13,8 @@ redirect_from:
   
 2026
 ------
-🐴 **Apr, 2026** Paper "Knowledge Distillation-Empowered Domain Incremental Learning with Flexible Model Selection for Smart Manufacturing Applications" has been accepted by Journal of Manufacturing Systems.<br>
-🐴 **Mar, 2026** Paper "Development of KASP markers and genomic prediction for winter hardiness in African bermudagrass" has been accepted by Grass Research.
+🐴 **Apr, 2026** Paper "[Knowledge Distillation-Empowered Domain Incremental Learning with Flexible Model Selection for Smart Manufacturing Applications](https://doi.org/10.1016/j.jmsy.2026.04.011)" has been accepted by Journal of Manufacturing Systems.<br>
+🐴 **Mar, 2026** Paper "[Development of KASP markers and genomic prediction for winter hardiness in African bermudagrass](https://10.48130/grares-0026-0007)" has been accepted by Grass Research.
 
 2024
 ------
